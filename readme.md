@@ -5,8 +5,8 @@ This is a template to use when you need a postgresql database but you're too laz
 Currently it's using the image `postgres:15.2-alpine`
 
 `Environment` variables are:
-- user: root
-- password: root
+- User: root
+- Password: root
 
 `Ports`: 5432:5432
 
@@ -17,20 +17,20 @@ It's also using a `volume`
 Currently it's using the image `dpage/pgadmin4`
 
 `Environment` variables are:
-- email: admin@admin.com   
-- password: admin
+- Email: admin@admin.com   
+- Password: admin
 
 `Ports`: 5431:80
 
 ## Commands 🚀
 
-Just go into the projecto and exect
+Just go into the project and exect
 
 ```
 docker-compose up
 ```
 
-And if you want to stop it
+To stop it
 
 ```
 docker-compose down
