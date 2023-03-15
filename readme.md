@@ -8,7 +8,7 @@ Currently it's using the image `postgres:15.2-alpine`
 - User: root
 - Password: root
 
-`Ports`: 5432:5432
+`Ports` 5432 : 5432
 
 It's also using a `volume`
 
@@ -20,7 +20,7 @@ Currently it's using the image `dpage/pgadmin4`
 - Email: admin@admin.com   
 - Password: admin
 
-`Ports`: 5431:80
+`Ports` 5431 : 80
 
 ## Commands 🚀
 
