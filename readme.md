@@ -24,13 +24,13 @@ Currently it's using the image `dpage/pgadmin4`
 
 ## Commands 🚀
 
-Just go into the project and exect
+⚡ Just go into the project and exect 
 
 ```
 docker-compose up
 ```
 
-To stop it
+🛑 To stop it
 
 ```
 docker-compose down
