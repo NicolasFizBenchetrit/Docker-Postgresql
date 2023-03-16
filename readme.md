@@ -22,6 +22,8 @@ Currently it's using the image `dpage/pgadmin4`
 
 `Ports` 5431 : 80
 
+It's also using a `volume`
+
 ## Commands 🚀
 
 Just go into the project and exect
