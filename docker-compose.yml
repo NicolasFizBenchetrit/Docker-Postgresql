@@ -22,6 +22,11 @@ services:
       - "5431:80"
     depends_on:
       - postgres
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+      
 volumes:
   db:
+    driver: local
+  pgadmin_data:
     driver: local
