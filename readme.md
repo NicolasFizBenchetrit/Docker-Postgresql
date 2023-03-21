@@ -1,5 +1,5 @@
 # Docker Postgresql 🐳
-This is a template to use when you need a postgresql database but you're too lazy to install it 
+This is a template to use when you need a postgresql database but you're too lazy to install it. There is a directory that includes just postgres and other that includes postgres+pgadmin
 
 ## Postgres 🐘
 Currently it's using the image `postgres:15.2-alpine`
